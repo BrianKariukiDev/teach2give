@@ -1,11 +1,13 @@
-
+<!-- Question 6: Count Vowels 
+Write a program that counts the number of vowels in a sentence. 
+eg " Hello World " => returns 2  -->
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Question 3</title>
+    <title>Question 6</title>
 </head>
 <body>
     <form action="question_six.php" method="post">
